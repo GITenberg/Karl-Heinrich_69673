@@ -5,12 +5,17 @@ contributor:
     agent_name: Wald, Adolf
     gutenberg_agent_id: '55369'
     url: http://www.gutenberg.org/2009/agents/55369
+covers:
+- cover_type: archival
+  image_path: 69673-h/images/cover.jpg
 creator:
   author:
     agent_name: Meyer-Förster, Wilhelm
     gutenberg_agent_id: '55368'
     url: http://www.gutenberg.org/2009/agents/55368
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69673#Karl-Heinrich
 gutenberg_issued: '2022-12-31'
 identifiers:
   gutenberg: '69673'
